@@ -1,0 +1,29 @@
+PASS browser form preserves text with standard CRLF normalization
+PASS browser creates reflection through actual student form
+PASS submission success notice
+PASS staff inbox includes submitted reflection
+PASS first acceptance
+PASS staff requests additional information
+PASS notification exists: cvbrowser-461a7580-a76a-471a-bdee-3a762d8ba55d
+PASS student sees request reason
+PASS opening request notice marks read
+PASS student supplement returns Pending and preserves original
+PASS notification exists: cvbrowser-461a7580-a76a-471a-bdee-3a762d8ba55d
+PASS re-accept after supplement
+PASS reply and resolution through actual staff form
+PASS notification exists: cvbrowser-461a7580-a76a-471a-bdee-3a762d8ba55d
+PASS student receives result and sees reply
+PASS close resolved record with reason
+PASS notification exists: cvbrowser-461a7580-a76a-471a-bdee-3a762d8ba55d
+PASS student receives close notice and reason
+PASS one request, one supplement, one result and one closure event
+PASS timeline chronological
+PASS second student cannot open another student reflection
+PASS other student list excludes reflection
+PASS other student inbox excludes private notices
+PASS second student POST denied: notifications.php
+PASS second student POST denied: staff-reflection.php
+PASS second student POST denied: reflection.php
+PASS student cannot access staff inbox
+ALL 27 BROWSER FLOW CHECKS PASSED
+CLEANUP temporary browser accounts, reflection, history and notifications; reusable student2 kept

@@ -1,0 +1,211 @@
+test_followup_notifications.py
+PASS fixture login
+PASS fixture login
+PASS fixture login
+PASS fixture login
+PASS anonymous notification inbox denied
+PASS empty own inbox
+PASS empty own inbox
+PASS supplement only NeedsInfo
+PASS reject state: request_info
+PASS reject state: close
+PASS accept increments version
+PASS request reason validation
+PASS request reason validation
+PASS request reason validation
+PASS request reason validation
+PASS request CSRF denied
+PASS invalid version rejected
+PASS invalid version rejected
+PASS invalid version rejected
+PASS request event + state + notification committed
+PASS original preserved on request
+PASS duplicate request creates no event/notice
+PASS request visible and escaped to both roles
+PASS request visible and escaped to both roles
+PASS other student cannot supplement
+PASS staff cannot submit student supplement
+PASS supplement content validation
+PASS supplement content validation
+PASS supplement content validation
+PASS supplement CSRF denied
+PASS own unread notice and badge
+PASS other inbox isolated
+PASS read ownership and CSRF enforced
+PASS read ownership and CSRF enforced
+PASS GET never marks read
+PASS open own notice marks read and redirects
+PASS repeat open keeps original ReadAt
+PASS supplement returns Pending; notifies exactly active staff scope
+PASS supplement separate from original and Responses
+PASS duplicate supplement has no duplicate history or notifications
+PASS staff notice opens staff detail
+PASS one staff reading does not mark others read
+PASS old request rejected after return to same InProgress state
+PASS old supplement rejected in next NeedsInfo round
+PASS resolve persists response and history
+PASS student receives exactly one result notice
+PASS close requires valid reason
+PASS close requires valid reason
+PASS close requires valid reason
+PASS close CSRF denied
+PASS close adds reason and preserves previous content
+PASS close notification exactly once
+PASS duplicate close has no duplicate notice
+PASS all rounds and close reason displayed in chronological order
+PASS final Response and activity rendered only once
+PASS all rounds and close reason displayed in chronological order
+PASS final Response and activity rendered only once
+PASS closed record remains owner-only for students
+PASS closed record immutable
+PASS notice cannot bypass reflection owner check
+PASS parallel request_info exactly once
+PASS fixture login
+PASS parallel supplement exactly once
+PASS rollback request_info after INSERT INTO ReflectionActivities
+PASS rollback request_info after UPDATE Reflections
+PASS rollback request_info after INSERT INTO Notifications
+PASS rollback resolve after INSERT INTO Responses
+PASS rollback resolve after INSERT INTO ReflectionActivities
+PASS rollback resolve after UPDATE Reflections
+PASS rollback resolve after INSERT INTO Notifications
+PASS rollback supplement after INSERT INTO ReflectionActivities
+PASS rollback supplement after UPDATE Reflections
+PASS rollback supplement after INSERT INTO Notifications
+PASS rollback close after INSERT INTO ReflectionActivities
+PASS rollback close after UPDATE Reflections
+PASS rollback close after INSERT INTO Notifications
+ALL 76 FOLLOWUP/NOTIFICATION CHECKS PASSED
+CLEANUP temporary accounts, activities, replies and notices (including notices to existing staff)
+
+
+test_staff_reflections.py
+PASS anonymous GET/POST blocked
+PASS anonymous GET/POST blocked
+PASS anonymous GET/POST blocked
+PASS anonymous GET/POST blocked
+PASS fixture login
+PASS fixture login
+PASS fixture login
+PASS fixture login
+PASS student GET/POST cannot mutate staff flow
+PASS student GET/POST cannot mutate staff flow
+PASS student GET/POST cannot mutate staff flow
+PASS student GET/POST cannot mutate staff flow
+PASS student GET/POST cannot mutate staff flow
+PASS student GET/POST cannot mutate staff flow
+PASS staff scope includes both student owners
+PASS inbox newest ID first at equal dates
+PASS sender names and escaped titles
+PASS status filter: Closed
+PASS status filter: InProgress
+PASS status filter: NeedsInfo
+PASS status filter: Pending
+PASS status filter: Resolved
+PASS invalid filter rejected
+PASS invalid filter rejected
+PASS invalid filter rejected
+PASS invalid/missing detail ID
+PASS invalid/missing detail ID
+PASS invalid/missing detail ID
+PASS invalid/missing detail ID
+PASS invalid/missing detail ID
+PASS invalid/missing detail ID
+PASS array detail ID rejected
+PASS pending detail and accept form
+PASS GET action never changes state
+PASS PUT rejected
+PASS invalid CSRF blocked: accept
+PASS invalid CSRF blocked: resolve
+PASS cannot resolve Pending
+PASS unsupported action rejected
+PASS Pending to InProgress; ignores posted role/status
+PASS accept flash and reply form
+PASS flash consumed once
+PASS duplicate acceptance blocked
+PASS invalid reply blocked
+PASS invalid reply blocked
+PASS invalid reply blocked
+PASS invalid reply blocked
+PASS invalid reply retained
+PASS reply and Resolved committed together
+PASS author is session staff; exact text saved
+PASS resolved detail escapes reply and offers closure
+PASS resubmission cannot duplicate response
+PASS resubmission cannot duplicate response
+PASS student owner sees staff reply and new status
+PASS other student cannot see resolved reflection
+PASS student home uses consistent Resolved label
+PASS read-only terminal/unsupported state form
+PASS server rejects unsupported state transitions
+PASS server rejects unsupported state transitions
+PASS read-only terminal/unsupported state form
+PASS server rejects unsupported state transitions
+PASS server rejects unsupported state transitions
+PASS parallel accept exactly once
+PASS parallel resolve exactly once
+PASS atomic rollback after INSERT INTO Responses
+PASS atomic rollback after UPDATE Reflections
+PASS service scope denies Student actor
+PASS inactive staff session denied
+PASS service scope denies inactive Staff actor
+PASS empty filtered inbox guidance
+ALL 70 STAFF CHECKS PASSED
+CLEANUP temporary staff/student accounts, responses and reflections
+
+
+test_student_reflections.py
+PASS anonymous blocked: reflection-create.php
+PASS anonymous blocked: reflections.php
+PASS anonymous blocked: reflection.php?id=1
+PASS test account login
+PASS staff blocked: reflection-create.php
+PASS staff blocked: reflections.php
+PASS staff blocked: reflection.php?id=1
+PASS test account login
+PASS test account login
+PASS home links
+PASS empty list guidance
+PASS categories from database
+PASS invalid input rejected: title
+PASS content retained
+PASS invalid input rejected: title
+PASS content retained
+PASS invalid input rejected: content
+PASS content retained
+PASS invalid input rejected: content
+PASS content retained
+PASS invalid input rejected: category_id
+PASS content retained
+PASS invalid input rejected: category_id
+PASS content retained
+PASS invalid input rejected: csrf
+PASS content retained
+PASS POST redirects to list
+PASS session owner, Pending and UTF-8 saved
+PASS success flash and safe title
+PASS refresh without duplicate or flash
+PASS detail plain text and empty responses
+PASS other student isolated: reflection.php?id=48
+PASS other student isolated: reflections.php
+PASS invalid or missing ID: 
+PASS invalid or missing ID: -1
+PASS invalid or missing ID: abc
+PASS invalid or missing ID: 1%20OR%201=1
+PASS invalid or missing ID: 4294967295
+PASS invalid or missing ID: 4294967296
+PASS invalid or missing ID: 1.5
+PASS invalid or missing ID: %3Cscript%3E
+PASS array ID rejected
+PASS staff responses escaped, filtered and ordered
+PASS status label: Pending
+PASS status label: InProgress
+PASS status label: NeedsInfo
+PASS status label: Resolved
+PASS status label: Closed
+PASS 200-character UTF-8 title accepted
+PASS Id descending when timestamps match
+PASS inactive session denied
+ALL 51 CHECKS PASSED
+CLEANUP: removed temporary accounts, reflections and responses.
+

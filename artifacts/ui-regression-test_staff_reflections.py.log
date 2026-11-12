@@ -1,0 +1,73 @@
+PASS anonymous GET/POST blocked
+PASS anonymous GET/POST blocked
+PASS anonymous GET/POST blocked
+PASS anonymous GET/POST blocked
+PASS fixture login
+PASS fixture login
+PASS fixture login
+PASS fixture login
+PASS student GET/POST cannot mutate staff flow
+PASS student GET/POST cannot mutate staff flow
+PASS student GET/POST cannot mutate staff flow
+PASS student GET/POST cannot mutate staff flow
+PASS student GET/POST cannot mutate staff flow
+PASS student GET/POST cannot mutate staff flow
+PASS staff scope includes both student owners
+PASS inbox newest ID first at equal dates
+PASS sender names and escaped titles
+PASS status filter: Closed
+PASS status filter: InProgress
+PASS status filter: NeedsInfo
+PASS status filter: Pending
+PASS status filter: Resolved
+PASS invalid filter rejected
+PASS invalid filter rejected
+PASS invalid filter rejected
+PASS invalid/missing detail ID
+PASS invalid/missing detail ID
+PASS invalid/missing detail ID
+PASS invalid/missing detail ID
+PASS invalid/missing detail ID
+PASS invalid/missing detail ID
+PASS array detail ID rejected
+PASS pending detail and accept form
+PASS GET action never changes state
+PASS PUT rejected
+PASS invalid CSRF blocked: accept
+PASS invalid CSRF blocked: resolve
+PASS cannot resolve Pending
+PASS unsupported action rejected
+PASS Pending to InProgress; ignores posted role/status
+PASS accept flash and reply form
+PASS flash consumed once
+PASS duplicate acceptance blocked
+PASS invalid reply blocked
+PASS invalid reply blocked
+PASS invalid reply blocked
+PASS invalid reply blocked
+PASS invalid reply retained
+PASS reply and Resolved committed together
+PASS author is session staff; exact text saved
+PASS resolved detail escapes reply and offers closure
+PASS resubmission cannot duplicate response
+PASS resubmission cannot duplicate response
+PASS student owner sees staff reply and new status
+PASS other student cannot see resolved reflection
+PASS student home uses consistent Resolved label
+PASS read-only terminal/unsupported state form
+PASS server rejects unsupported state transitions
+PASS server rejects unsupported state transitions
+PASS read-only terminal/unsupported state form
+PASS server rejects unsupported state transitions
+PASS server rejects unsupported state transitions
+PASS parallel accept exactly once
+PASS parallel resolve exactly once
+PASS atomic rollback after INSERT INTO Responses
+PASS atomic rollback after UPDATE Reflections
+PASS service scope denies Student actor
+PASS inactive staff session denied
+PASS service scope denies inactive Staff actor
+PASS empty filtered inbox guidance
+ALL 70 STAFF CHECKS PASSED
+CLEANUP temporary staff/student accounts, responses and reflections
+

@@ -1,0 +1,372 @@
+test_ui_responsive.mjs
+login 360: root=345, clipped=0, overlaps=0
+login-error 360: root=345, clipped=0, overlaps=0
+home 360: root=360, clipped=0, overlaps=0
+create 360: root=345, clipped=0, overlaps=0
+student-list 360: root=345, clipped=0, overlaps=0
+student-detail 360: root=345, clipped=0, overlaps=0
+student-supplement 360: root=345, clipped=0, overlaps=0
+student-notifications 360: root=345, clipped=0, overlaps=0
+create-error 360: root=345, clipped=0, overlaps=0
+student-list-empty 360: root=360, clipped=0, overlaps=0
+notifications-empty 360: root=360, clipped=0, overlaps=0
+home-empty 360: root=360, clipped=0, overlaps=0
+staff-list 360: root=345, clipped=0, overlaps=0
+staff-detail 360: root=345, clipped=0, overlaps=0
+staff-reply 360: root=345, clipped=0, overlaps=0
+staff-close 360: root=345, clipped=0, overlaps=0
+staff-notifications 360: root=345, clipped=0, overlaps=0
+login 768: root=753, clipped=0, overlaps=0
+login-error 768: root=753, clipped=0, overlaps=0
+home 768: root=768, clipped=0, overlaps=0
+create 768: root=753, clipped=0, overlaps=0
+student-list 768: root=753, clipped=0, overlaps=0
+student-detail 768: root=753, clipped=0, overlaps=0
+student-supplement 768: root=753, clipped=0, overlaps=0
+student-notifications 768: root=753, clipped=0, overlaps=0
+create-error 768: root=753, clipped=0, overlaps=0
+student-list-empty 768: root=768, clipped=0, overlaps=0
+notifications-empty 768: root=768, clipped=0, overlaps=0
+home-empty 768: root=768, clipped=0, overlaps=0
+staff-list 768: root=753, clipped=0, overlaps=0
+staff-detail 768: root=753, clipped=0, overlaps=0
+staff-reply 768: root=753, clipped=0, overlaps=0
+staff-close 768: root=753, clipped=0, overlaps=0
+staff-notifications 768: root=753, clipped=0, overlaps=0
+login 1440: root=1440, clipped=0, overlaps=0
+login-error 1440: root=1425, clipped=0, overlaps=0
+home 1440: root=1440, clipped=0, overlaps=0
+create 1440: root=1425, clipped=0, overlaps=0
+student-list 1440: root=1440, clipped=0, overlaps=0
+student-detail 1440: root=1425, clipped=0, overlaps=0
+student-supplement 1440: root=1425, clipped=0, overlaps=0
+student-notifications 1440: root=1440, clipped=0, overlaps=0
+create-error 1440: root=1425, clipped=0, overlaps=0
+student-list-empty 1440: root=1440, clipped=0, overlaps=0
+notifications-empty 1440: root=1440, clipped=0, overlaps=0
+home-empty 1440: root=1440, clipped=0, overlaps=0
+staff-list 1440: root=1425, clipped=0, overlaps=0
+staff-detail 1440: root=1425, clipped=0, overlaps=0
+staff-reply 1440: root=1425, clipped=0, overlaps=0
+staff-close 1440: root=1425, clipped=0, overlaps=0
+staff-notifications 1440: root=1440, clipped=0, overlaps=0
+PASS keyboard opens mobile menu
+PASS Tab enters mobile navigation
+PASS Escape closes and restores focus
+PASS Space opens menu
+PASS keyboard follows My reflections navigation
+PASS keyboard scrolls table without scrolling entire page
+PASS submission success animation
+PASS pointer opens submitted detail
+PASS mobile staff acceptance still works
+PASS mobile staff reply and status update still work
+PASS staff mobile menu works
+PASS reduced motion disables banner animation and smooth scrolling
+PASS navigation remains usable if JS is unavailable
+PASS keyboard login focus is visible
+PASS no JavaScript exceptions
+AFTER audit finished: 51 page/viewport cases, 168 checks
+CLEANUP temporary UI users, files, history and notifications
+
+
+test_attachments_csv.py
+PASS test account login
+PASS test account login
+PASS test account login
+PASS valid upload Minh chứng tiếng Việt.pdf
+PASS file stored outside web root, exact bytes
+PASS download authorized owner
+PASS download authorized staff
+PASS other student download denied
+PASS valid upload minh-chung.png
+PASS file stored outside web root, exact bytes
+PASS download authorized owner
+PASS download authorized staff
+PASS other student download denied
+PASS valid upload minh-chung.JPG
+PASS file stored outside web root, exact bytes
+PASS download authorized owner
+PASS download authorized staff
+PASS other student download denied
+PASS UTF-8 filename header
+PASS reject wrong type/empty/oversize shell.php
+PASS text retained after file error
+PASS reject wrong type/empty/oversize fake.pdf
+PASS text retained after file error
+PASS reject wrong type/empty/oversize fake.jpg
+PASS text retained after file error
+PASS reject wrong type/empty/oversize empty.pdf
+PASS text retained after file error
+PASS reject wrong type/empty/oversize big.pdf
+PASS text retained after file error
+PASS upload CSRF; no orphan data/file
+PASS download invalid/anonymous access
+PASS download invalid/anonymous access
+PASS download invalid/anonymous access
+PASS download read-only method
+PASS detail lists attachment for authorized role
+PASS detail lists attachment for authorized role
+PASS supplement can attach file
+PASS initial and supplement files retained
+PASS stale supplement does not move duplicate file
+PASS closed reflection attachments still downloadable
+PASS CSV MIME and UTF-8 BOM for Excel
+PASS CSV current status filter applied to all rows
+PASS Closed record excluded from Pending CSV
+PASS CSV Vietnamese, quotes/comma/newline roundtrip
+PASS Excel formula injection neutralized
+PASS export link preserves selected filter
+PASS CSV invalid filter denied
+PASS CSV invalid filter denied
+PASS CSV invalid filter denied
+PASS CSV role/session access denied
+PASS CSV role/session access denied
+PASS CSV GET only
+PASS inactive staff cannot export
+ALL 53 ATTACHMENT/CSV CHECKS PASSED
+CLEANUP temporary attachments/files, accounts, history and notifications
+
+
+test_followup_notifications.py
+PASS fixture login
+PASS fixture login
+PASS fixture login
+PASS fixture login
+PASS anonymous notification inbox denied
+PASS empty own inbox
+PASS empty own inbox
+PASS supplement only NeedsInfo
+PASS reject state: request_info
+PASS reject state: close
+PASS accept increments version
+PASS request reason validation
+PASS request reason validation
+PASS request reason validation
+PASS request reason validation
+PASS request CSRF denied
+PASS invalid version rejected
+PASS invalid version rejected
+PASS invalid version rejected
+PASS request event + state + notification committed
+PASS original preserved on request
+PASS duplicate request creates no event/notice
+PASS request visible and escaped to both roles
+PASS request visible and escaped to both roles
+PASS other student cannot supplement
+PASS staff cannot submit student supplement
+PASS supplement content validation
+PASS supplement content validation
+PASS supplement content validation
+PASS supplement CSRF denied
+PASS own unread notice and badge
+PASS other inbox isolated
+PASS read ownership and CSRF enforced
+PASS read ownership and CSRF enforced
+PASS GET never marks read
+PASS open own notice marks read and redirects
+PASS repeat open keeps original ReadAt
+PASS supplement returns Pending; notifies exactly active staff scope
+PASS supplement separate from original and Responses
+PASS duplicate supplement has no duplicate history or notifications
+PASS staff notice opens staff detail
+PASS one staff reading does not mark others read
+PASS old request rejected after return to same InProgress state
+PASS old supplement rejected in next NeedsInfo round
+PASS resolve persists response and history
+PASS student receives exactly one result notice
+PASS close requires valid reason
+PASS close requires valid reason
+PASS close requires valid reason
+PASS close CSRF denied
+PASS close adds reason and preserves previous content
+PASS close notification exactly once
+PASS duplicate close has no duplicate notice
+PASS all rounds and close reason displayed in chronological order
+PASS final Response and activity rendered only once
+PASS all rounds and close reason displayed in chronological order
+PASS final Response and activity rendered only once
+PASS closed record remains owner-only for students
+PASS closed record immutable
+PASS notice cannot bypass reflection owner check
+PASS parallel request_info exactly once
+PASS fixture login
+PASS parallel supplement exactly once
+PASS rollback request_info after INSERT INTO ReflectionActivities
+PASS rollback request_info after UPDATE Reflections
+PASS rollback request_info after INSERT INTO Notifications
+PASS rollback resolve after INSERT INTO Responses
+PASS rollback resolve after INSERT INTO ReflectionActivities
+PASS rollback resolve after UPDATE Reflections
+PASS rollback resolve after INSERT INTO Notifications
+PASS rollback supplement after INSERT INTO ReflectionActivities
+PASS rollback supplement after UPDATE Reflections
+PASS rollback supplement after INSERT INTO Notifications
+PASS rollback close after INSERT INTO ReflectionActivities
+PASS rollback close after UPDATE Reflections
+PASS rollback close after INSERT INTO Notifications
+ALL 76 FOLLOWUP/NOTIFICATION CHECKS PASSED
+CLEANUP temporary accounts, activities, replies and notices (including notices to existing staff)
+
+
+test_staff_reflections.py
+PASS anonymous GET/POST blocked
+PASS anonymous GET/POST blocked
+PASS anonymous GET/POST blocked
+PASS anonymous GET/POST blocked
+PASS fixture login
+PASS fixture login
+PASS fixture login
+PASS fixture login
+PASS student GET/POST cannot mutate staff flow
+PASS student GET/POST cannot mutate staff flow
+PASS student GET/POST cannot mutate staff flow
+PASS student GET/POST cannot mutate staff flow
+PASS student GET/POST cannot mutate staff flow
+PASS student GET/POST cannot mutate staff flow
+PASS staff scope includes both student owners
+PASS inbox newest ID first at equal dates
+PASS sender names and escaped titles
+PASS status filter: Closed
+PASS status filter: InProgress
+PASS status filter: NeedsInfo
+PASS status filter: Pending
+PASS status filter: Resolved
+PASS invalid filter rejected
+PASS invalid filter rejected
+PASS invalid filter rejected
+PASS invalid/missing detail ID
+PASS invalid/missing detail ID
+PASS invalid/missing detail ID
+PASS invalid/missing detail ID
+PASS invalid/missing detail ID
+PASS invalid/missing detail ID
+PASS array detail ID rejected
+PASS pending detail and accept form
+PASS GET action never changes state
+PASS PUT rejected
+PASS invalid CSRF blocked: accept
+PASS invalid CSRF blocked: resolve
+PASS cannot resolve Pending
+PASS unsupported action rejected
+PASS Pending to InProgress; ignores posted role/status
+PASS accept flash and reply form
+PASS flash consumed once
+PASS duplicate acceptance blocked
+PASS invalid reply blocked
+PASS invalid reply blocked
+PASS invalid reply blocked
+PASS invalid reply blocked
+PASS invalid reply retained
+PASS reply and Resolved committed together
+PASS author is session staff; exact text saved
+PASS resolved detail escapes reply and offers closure
+PASS resubmission cannot duplicate response
+PASS resubmission cannot duplicate response
+PASS student owner sees staff reply and new status
+PASS other student cannot see resolved reflection
+PASS student home uses consistent Resolved label
+PASS read-only terminal/unsupported state form
+PASS server rejects unsupported state transitions
+PASS server rejects unsupported state transitions
+PASS read-only terminal/unsupported state form
+PASS server rejects unsupported state transitions
+PASS server rejects unsupported state transitions
+PASS parallel accept exactly once
+PASS parallel resolve exactly once
+PASS atomic rollback after INSERT INTO Responses
+PASS atomic rollback after UPDATE Reflections
+PASS service scope denies Student actor
+PASS inactive staff session denied
+PASS service scope denies inactive Staff actor
+PASS empty filtered inbox guidance
+ALL 70 STAFF CHECKS PASSED
+CLEANUP temporary staff/student accounts, responses and reflections
+
+
+test_student_reflections.py
+PASS anonymous blocked: reflection-create.php
+PASS anonymous blocked: reflections.php
+PASS anonymous blocked: reflection.php?id=1
+PASS test account login
+PASS staff blocked: reflection-create.php
+PASS staff blocked: reflections.php
+PASS staff blocked: reflection.php?id=1
+PASS test account login
+PASS test account login
+PASS home links
+PASS empty list guidance
+PASS categories from database
+PASS invalid input rejected: title
+PASS content retained
+PASS invalid input rejected: title
+PASS content retained
+PASS invalid input rejected: content
+PASS content retained
+PASS invalid input rejected: content
+PASS content retained
+PASS invalid input rejected: category_id
+PASS content retained
+PASS invalid input rejected: category_id
+PASS content retained
+PASS invalid input rejected: csrf
+PASS content retained
+PASS POST redirects to list
+PASS session owner, Pending and UTF-8 saved
+PASS success flash and safe title
+PASS refresh without duplicate or flash
+PASS detail plain text and empty responses
+PASS other student isolated: reflection.php?id=98
+PASS other student isolated: reflections.php
+PASS invalid or missing ID: 
+PASS invalid or missing ID: -1
+PASS invalid or missing ID: abc
+PASS invalid or missing ID: 1%20OR%201=1
+PASS invalid or missing ID: 4294967295
+PASS invalid or missing ID: 4294967296
+PASS invalid or missing ID: 1.5
+PASS invalid or missing ID: %3Cscript%3E
+PASS array ID rejected
+PASS staff responses escaped, filtered and ordered
+PASS status label: Pending
+PASS status label: InProgress
+PASS status label: NeedsInfo
+PASS status label: Resolved
+PASS status label: Closed
+PASS 200-character UTF-8 title accepted
+PASS Id descending when timestamps match
+PASS inactive session denied
+ALL 51 CHECKS PASSED
+CLEANUP: removed temporary accounts, reflections and responses.
+
+
+test_browser_flow.mjs
+PASS browser form preserves text with standard CRLF normalization
+PASS browser creates reflection through actual student form
+PASS submission success notice
+PASS staff inbox includes submitted reflection
+PASS first acceptance
+PASS staff requests additional information
+PASS notification exists: cvbrowser-461a7580-a76a-471a-bdee-3a762d8ba55d
+PASS student sees request reason
+PASS opening request notice marks read
+PASS student supplement returns Pending and preserves original
+PASS notification exists: cvbrowser-461a7580-a76a-471a-bdee-3a762d8ba55d
+PASS re-accept after supplement
+PASS reply and resolution through actual staff form
+PASS notification exists: cvbrowser-461a7580-a76a-471a-bdee-3a762d8ba55d
+PASS student receives result and sees reply
+PASS close resolved record with reason
+PASS notification exists: cvbrowser-461a7580-a76a-471a-bdee-3a762d8ba55d
+PASS student receives close notice and reason
+PASS one request, one supplement, one result and one closure event
+PASS timeline chronological
+PASS second student cannot open another student reflection
+PASS other student list excludes reflection
+PASS other student inbox excludes private notices
+PASS second student POST denied: notifications.php
+PASS second student POST denied: staff-reflection.php
+PASS second student POST denied: reflection.php
+PASS student cannot access staff inbox
+ALL 27 BROWSER FLOW CHECKS PASSED
+CLEANUP temporary browser accounts, reflection, history and notifications; reusable student2 kept
+

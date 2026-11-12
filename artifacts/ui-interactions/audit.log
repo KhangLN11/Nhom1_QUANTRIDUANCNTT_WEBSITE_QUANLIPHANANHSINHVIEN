@@ -1,0 +1,17 @@
+PASS keyboard opens mobile menu
+PASS Tab enters mobile navigation
+PASS Escape closes and restores focus
+PASS Space opens menu
+PASS keyboard follows My reflections navigation
+PASS keyboard scrolls table without scrolling entire page
+PASS submission success animation
+PASS pointer opens submitted detail
+PASS mobile staff acceptance still works
+PASS mobile staff reply and status update still work
+PASS staff mobile menu works
+PASS reduced motion disables banner animation and smooth scrolling
+PASS navigation remains usable if JS is unavailable
+PASS keyboard login focus is visible
+PASS no JavaScript exceptions
+AFTER audit finished: 0 page/viewport cases, 15 checks
+CLEANUP temporary UI users, files, history and notifications

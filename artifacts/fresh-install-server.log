@@ -1,0 +1,1449 @@
+[Tue Nov 10 22:09:25 2026] PHP 8.0.30 Development Server (http://127.0.0.1:65420) started
+[Tue Nov 10 22:09:25 2026] 127.0.0.1:65421 Accepted
+[Tue Nov 10 22:09:25 2026] 127.0.0.1:65421 [200]: GET /login.php
+[Tue Nov 10 22:09:25 2026] 127.0.0.1:65421 Closing
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49772 Accepted
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49772 [200]: GET /login.php
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49772 Closing
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49773 Accepted
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49773 [303]: POST /login.php
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49773 Closing
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49775 Accepted
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49775 [200]: GET /login.php
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49775 Closing
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49776 Accepted
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49776 [303]: POST /login.php
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49776 Closing
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49778 Accepted
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49778 [200]: GET /login.php
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49778 Closing
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49779 Accepted
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49779 [303]: POST /login.php
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49779 Closing
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49781 Accepted
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49781 [200]: GET /reflection-create.php
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49781 Closing
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49783 Accepted
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49783 [303]: POST /reflection-create.php
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49783 Closing
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49786 Accepted
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49786 [200]: GET /attachment-download.php?id=1
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49786 Closing
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49788 Accepted
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49788 [200]: GET /attachment-download.php?id=1
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49788 Closing
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49790 Accepted
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49790 [404]: GET /attachment-download.php?id=1
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49790 Closing
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49792 Accepted
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49792 [200]: GET /reflection-create.php
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49792 Closing
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49794 Accepted
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49794 [303]: POST /reflection-create.php
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49794 Closing
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49797 Accepted
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49797 [200]: GET /attachment-download.php?id=2
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49797 Closing
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49799 Accepted
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49799 [200]: GET /attachment-download.php?id=2
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49799 Closing
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49801 Accepted
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49801 [404]: GET /attachment-download.php?id=2
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49801 Closing
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49803 Accepted
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49803 [200]: GET /reflection-create.php
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49803 Closing
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49805 Accepted
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49805 [303]: POST /reflection-create.php
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49805 Closing
+[Tue Nov 10 22:09:26 2026] 127.0.0.1:49808 Accepted
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49808 [200]: GET /attachment-download.php?id=3
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49808 Closing
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49810 Accepted
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49810 [200]: GET /attachment-download.php?id=3
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49810 Closing
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49812 Accepted
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49812 [404]: GET /attachment-download.php?id=3
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49812 Closing
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49814 Accepted
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49814 [200]: GET /attachment-download.php?id=1
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49814 Closing
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49817 Accepted
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49817 [200]: GET /reflection-create.php
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49817 Closing
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49819 Accepted
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49819 [422]: POST /reflection-create.php
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49819 Closing
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49822 Accepted
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49822 [200]: GET /reflection-create.php
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49822 Closing
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49824 Accepted
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49824 [422]: POST /reflection-create.php
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49824 Closing
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49827 Accepted
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49827 [200]: GET /reflection-create.php
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49827 Closing
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49829 Accepted
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49829 [422]: POST /reflection-create.php
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49829 Closing
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49832 Accepted
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49832 [200]: GET /reflection-create.php
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49832 Closing
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49834 Accepted
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49834 [422]: POST /reflection-create.php
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49834 Closing
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49838 Accepted
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49838 [200]: GET /reflection-create.php
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49838 Closing
+[Tue Nov 10 22:09:27 2026] 127.0.0.1:49840 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49840 [422]: POST /reflection-create.php
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49840 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49843 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49843 [200]: GET /reflection-create.php
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49843 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49845 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49845 [403]: POST /reflection-create.php
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49845 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49848 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49848 [303]: GET /attachment-download.php?id=1
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49848 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49849 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49849 [404]: GET /attachment-download.php?id[]=1
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49849 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49851 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49851 [404]: GET /attachment-download.php?id=-1
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49851 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49853 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49853 [405]: POST /attachment-download.php?id=1
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49853 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49855 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49855 [200]: GET /reflection.php?id=1
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49855 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49857 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49857 [200]: GET /staff-reflection.php?id=1
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49857 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49860 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49860 [200]: GET /reflection.php?id=1
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49860 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49862 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49862 [303]: POST /reflection.php?id=1
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49862 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49865 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49865 [409]: POST /reflection.php?id=1
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49865 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49868 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49868 [200]: GET /attachment-download.php?id=1
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49868 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49871 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49871 [200]: GET /staff-export.php?status=Pending
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49871 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49873 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49873 [200]: GET /staff.php?status=Pending
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49873 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49875 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49875 [422]: GET /staff-export.php?status=Bad
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49875 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49877 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49877 [422]: GET /staff-export.php?status[]=Pending
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49877 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49879 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49879 [422]: GET /staff-export.php?status=Pending%27%20OR%201=1
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49879 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49881 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49881 [303]: GET /staff-export.php
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49881 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49883 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49883 [303]: GET /staff-export.php
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49883 Closing
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49884 Accepted
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49884 [405]: POST /staff-export.php
+[Tue Nov 10 22:09:28 2026] 127.0.0.1:49884 Closing
+[Tue Nov 10 22:09:29 2026] 127.0.0.1:49888 Accepted
+[Tue Nov 10 22:09:29 2026] 127.0.0.1:49888 [200]: GET /reflection-create.php
+[Tue Nov 10 22:09:29 2026] 127.0.0.1:49888 Closing
+[Tue Nov 10 22:09:29 2026] 127.0.0.1:49890 Accepted
+[Tue Nov 10 22:09:29 2026] PDOException: SQLSTATE[45000]: <<Unknown error>>: 1644 isolated test failure in C:\xampp\htdocs\campusvoice\includes\attachments.php:88
+Stack trace:
+#0 C:\xampp\htdocs\campusvoice\includes\attachments.php(88): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\campusvoice\reflection-create.php(48): attachment_store(Object(PDO), 5, Array)
+#2 {main}
+[Tue Nov 10 22:09:29 2026] 127.0.0.1:49890 [503]: POST /reflection-create.php
+[Tue Nov 10 22:09:29 2026] 127.0.0.1:49890 Closing
+[Tue Nov 10 22:09:29 2026] 127.0.0.1:49897 Accepted
+[Tue Nov 10 22:09:29 2026] 127.0.0.1:49897 [200]: GET /reflection.php?id=2
+[Tue Nov 10 22:09:29 2026] 127.0.0.1:49897 Closing
+[Tue Nov 10 22:09:29 2026] 127.0.0.1:49899 Accepted
+[Tue Nov 10 22:09:29 2026] PDOException: SQLSTATE[45000]: <<Unknown error>>: 1644 isolated notice failure in C:\xampp\htdocs\campusvoice\includes\notifications.php:26
+Stack trace:
+#0 C:\xampp\htdocs\campusvoice\includes\notifications.php(26): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\campusvoice\includes\staff-workflow.php(63): notify_staff(Object(PDO), 2, 'force-notice-fa...')
+#2 C:\xampp\htdocs\campusvoice\reflection.php(24): student_supplement_reflection(Object(PDO), 2, 4, 'force-notice-fa...', 0, Array)
+#3 {main}
+[Tue Nov 10 22:09:29 2026] 127.0.0.1:49899 [503]: POST /reflection.php?id=2
+[Tue Nov 10 22:09:29 2026] 127.0.0.1:49899 Closing
+[Tue Nov 10 22:09:29 2026] 127.0.0.1:49904 Accepted
+[Tue Nov 10 22:09:29 2026] 127.0.0.1:49904 [303]: GET /staff-export.php
+[Tue Nov 10 22:09:29 2026] 127.0.0.1:49904 Closing
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49909 Accepted
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49909 [200]: GET /login.php
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49909 Closing
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49910 Accepted
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49910 [303]: POST /login.php
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49910 Closing
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49912 Accepted
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49912 [200]: GET /login.php
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49912 Closing
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49913 Accepted
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49913 [303]: POST /login.php
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49913 Closing
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49915 Accepted
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49915 [200]: GET /login.php
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49915 Closing
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49916 Accepted
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49916 [303]: POST /login.php
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49916 Closing
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49918 Accepted
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49918 [200]: GET /login.php
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49918 Closing
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49919 Accepted
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49919 [303]: POST /login.php
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49919 Closing
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49921 Accepted
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49921 [303]: GET /notifications.php
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49921 Closing
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49922 Accepted
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49922 [200]: GET /notifications.php
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49922 Closing
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49924 Accepted
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49924 [200]: GET /notifications.php
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49924 Closing
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49928 Accepted
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49928 [200]: GET /reflection.php?id=6
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49928 Closing
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49930 Accepted
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49930 [409]: POST /reflection.php?id=6
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49930 Closing
+[Tue Nov 10 22:09:30 2026] 127.0.0.1:49934 Accepted
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49934 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49934 Closing
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49936 Accepted
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49936 [409]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49936 Closing
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49940 Accepted
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49940 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49940 Closing
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49942 Accepted
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49942 [409]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49942 Closing
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49946 Accepted
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49946 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49946 Closing
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49948 Accepted
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49948 [303]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49948 Closing
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49953 Accepted
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49953 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49953 Closing
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49955 Accepted
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49955 [422]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49955 Closing
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49960 Accepted
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49960 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49960 Closing
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49962 Accepted
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49962 [422]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:31 2026] 127.0.0.1:49962 Closing
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49967 Accepted
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49967 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49967 Closing
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49969 Accepted
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49969 [422]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49969 Closing
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49975 Accepted
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49975 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49975 Closing
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49977 Accepted
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49977 [422]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49977 Closing
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49981 Accepted
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49981 [403]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49981 Closing
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49984 Accepted
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49984 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49984 Closing
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49986 Accepted
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49986 [422]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49986 Closing
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49989 Accepted
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49989 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49989 Closing
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49991 Accepted
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49991 [422]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49991 Closing
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49994 Accepted
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49994 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49994 Closing
+[Tue Nov 10 22:09:32 2026] 127.0.0.1:49996 Accepted
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:49996 [422]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:49996 Closing
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50060 Accepted
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50060 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50060 Closing
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50062 Accepted
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50062 [303]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50062 Closing
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50065 Accepted
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50065 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50065 Closing
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50067 Accepted
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50067 [409]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50067 Closing
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50070 Accepted
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50070 [200]: GET /reflection.php?id=6
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50070 Closing
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50072 Accepted
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50072 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50072 Closing
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50075 Accepted
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50075 [404]: GET /reflection.php?id=6
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50075 Closing
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50077 Accepted
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50077 [404]: POST /reflection.php?id=6
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50077 Closing
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50080 Accepted
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50080 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50080 Closing
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50082 Accepted
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50082 [303]: POST /reflection.php?id=6
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50082 Closing
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50086 Accepted
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50086 [200]: GET /reflection.php?id=6
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50086 Closing
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50088 Accepted
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50088 [422]: POST /reflection.php?id=6
+[Tue Nov 10 22:09:33 2026] 127.0.0.1:50088 Closing
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50092 Accepted
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50092 [200]: GET /reflection.php?id=6
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50092 Closing
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50094 Accepted
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50094 [422]: POST /reflection.php?id=6
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50094 Closing
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50098 Accepted
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50098 [200]: GET /reflection.php?id=6
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50098 Closing
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50100 Accepted
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50100 [422]: POST /reflection.php?id=6
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50100 Closing
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50103 Accepted
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50103 [403]: POST /reflection.php?id=6
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50103 Closing
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50107 Accepted
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50107 [200]: GET /notifications.php
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50107 Closing
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50109 Accepted
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50109 [200]: GET /notifications.php
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50109 Closing
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50111 Accepted
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50111 [200]: GET /notifications.php
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50111 Closing
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50113 Accepted
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50113 [404]: POST /notifications.php
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50113 Closing
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50116 Accepted
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50116 [403]: POST /notifications.php
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50116 Closing
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50119 Accepted
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50119 [200]: GET /notifications.php?notification_id=4
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50119 Closing
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50122 Accepted
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50122 [200]: GET /notifications.php
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50122 Closing
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50124 Accepted
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50124 [303]: POST /notifications.php
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50124 Closing
+[Tue Nov 10 22:09:34 2026] 127.0.0.1:50127 Accepted
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50127 [200]: GET /notifications.php
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50127 Closing
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50129 Accepted
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50129 [303]: POST /notifications.php
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50129 Closing
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50134 Accepted
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50134 [200]: GET /reflection.php?id=6
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50134 Closing
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50136 Accepted
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50136 [303]: POST /reflection.php?id=6
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50136 Closing
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50140 Accepted
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50140 [200]: GET /reflection.php?id=6
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50140 Closing
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50143 Accepted
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50143 [409]: POST /reflection.php?id=6
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50143 Closing
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50147 Accepted
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50147 [200]: GET /notifications.php
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50147 Closing
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50149 Accepted
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50149 [303]: POST /notifications.php
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50149 Closing
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50154 Accepted
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50154 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50154 Closing
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50156 Accepted
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50156 [303]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50156 Closing
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50159 Accepted
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50159 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50159 Closing
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50161 Accepted
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50161 [409]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:35 2026] 127.0.0.1:50161 Closing
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50165 Accepted
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50165 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50165 Closing
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50167 Accepted
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50167 [303]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50167 Closing
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50170 Accepted
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50170 [200]: GET /reflection.php?id=6
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50170 Closing
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50172 Accepted
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50172 [409]: POST /reflection.php?id=6
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50172 Closing
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50176 Accepted
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50176 [200]: GET /reflection.php?id=6
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50176 Closing
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50178 Accepted
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50178 [303]: POST /reflection.php?id=6
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50178 Closing
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50181 Accepted
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50181 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50181 Closing
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50183 Accepted
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50183 [303]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50183 Closing
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50186 Accepted
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50186 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50186 Closing
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50188 Accepted
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50188 [303]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50188 Closing
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50195 Accepted
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50195 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50195 Closing
+[Tue Nov 10 22:09:36 2026] 127.0.0.1:50197 Accepted
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50197 [422]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50197 Closing
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50201 Accepted
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50201 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50201 Closing
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50203 Accepted
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50203 [422]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50203 Closing
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50207 Accepted
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50207 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50207 Closing
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50209 Accepted
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50209 [422]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50209 Closing
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50212 Accepted
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50212 [403]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50212 Closing
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50216 Accepted
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50216 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50216 Closing
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50218 Accepted
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50218 [303]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50218 Closing
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50222 Accepted
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50222 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50222 Closing
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50224 Accepted
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50224 [409]: POST /staff-reflection.php?id=6
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50224 Closing
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50227 Accepted
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50227 [200]: GET /reflection.php?id=6
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50227 Closing
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50229 Accepted
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50229 [200]: GET /staff-reflection.php?id=6
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50229 Closing
+[Tue Nov 10 22:09:37 2026] 127.0.0.1:50231 Accepted
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50231 [404]: GET /reflection.php?id=6
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50231 Closing
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50235 Accepted
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50235 [200]: GET /reflection.php?id=6
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50235 Closing
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50237 Accepted
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50237 [409]: POST /reflection.php?id=6
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50237 Closing
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50241 Accepted
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50241 [200]: GET /notifications.php
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50241 Closing
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50243 Accepted
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50243 [404]: POST /notifications.php
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50243 Closing
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50246 Accepted
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50246 [200]: GET /staff-reflection.php?id=8
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50246 Closing
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50248 Accepted
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50248 [200]: GET /staff-reflection.php?id=8
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50248 Closing
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50250 Accepted
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50251 Accepted
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50250 [303]: POST /staff-reflection.php?id=8
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50250 Closing
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50251 [409]: POST /staff-reflection.php?id=8
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50251 Closing
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50256 Accepted
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50256 [200]: GET /login.php
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50256 Closing
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50257 Accepted
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50257 [303]: POST /login.php
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50257 Closing
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50260 Accepted
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50260 [200]: GET /reflection.php?id=8
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50260 Closing
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50262 Accepted
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50262 [200]: GET /reflection.php?id=8
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50262 Closing
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50264 Accepted
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50265 Accepted
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50264 [303]: POST /reflection.php?id=8
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50264 Closing
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50265 [409]: POST /reflection.php?id=8
+[Tue Nov 10 22:09:38 2026] 127.0.0.1:50265 Closing
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50311 Accepted
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50311 [303]: GET /staff.php
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50311 Closing
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50312 Accepted
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50312 [303]: POST /staff.php
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50312 Closing
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50313 Accepted
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50313 [303]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50313 Closing
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50314 Accepted
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50314 [303]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50314 Closing
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50316 Accepted
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50316 [303]: POST /staff-reflection.php?id=12
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50316 Closing
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50317 Accepted
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50317 [200]: GET /login.php
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50317 Closing
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50318 Accepted
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50318 [303]: POST /login.php
+[Tue Nov 10 22:09:41 2026] 127.0.0.1:50318 Closing
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50320 Accepted
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50320 [200]: GET /login.php
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50320 Closing
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50321 Accepted
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50321 [303]: POST /login.php
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50321 Closing
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50323 Accepted
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50323 [200]: GET /login.php
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50323 Closing
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50324 Accepted
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50324 [303]: POST /login.php
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50324 Closing
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50326 Accepted
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50326 [200]: GET /login.php
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50326 Closing
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50327 Accepted
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50327 [303]: POST /login.php
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50327 Closing
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50329 Accepted
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50329 [200]: GET /student.php
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50329 Closing
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50331 Accepted
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50331 [303]: GET /staff.php
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50331 Closing
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50334 Accepted
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50334 [200]: GET /student.php
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50334 Closing
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50336 Accepted
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50336 [303]: POST /staff.php
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:50336 Closing
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:54668 Accepted
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:54668 [200]: GET /student.php
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:54668 Closing
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:54670 Accepted
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:54670 [303]: POST /staff.php
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:54670 Closing
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:64279 Accepted
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:64279 [200]: GET /student.php
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:64279 Closing
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:54236 Accepted
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:54236 [303]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:54236 Closing
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:57280 Accepted
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:57280 [200]: GET /student.php
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:57280 Closing
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:57576 Accepted
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:57576 [303]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:42 2026] 127.0.0.1:57576 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:55808 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:55808 [303]: POST /staff-reflection.php?id=12
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:55808 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:55811 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:55811 [200]: GET /student.php
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:55811 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:55813 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:55813 [303]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:55813 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:55816 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:55816 [303]: POST /staff-reflection.php?id=12
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:55816 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:61835 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:61835 [200]: GET /staff.php
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:61835 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:61837 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:61837 [200]: GET /staff.php?status=Closed
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:61837 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:61839 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:61839 [200]: GET /staff.php?status=InProgress
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:61839 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:61841 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:61841 [200]: GET /staff.php?status=NeedsInfo
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:61841 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:61843 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:61843 [200]: GET /staff.php?status=Pending
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:61843 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56802 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56802 [200]: GET /staff.php?status=Resolved
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56802 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56804 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56804 [422]: GET /staff.php?status=Invalid
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56804 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56806 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56806 [422]: GET /staff.php?status[]=Pending
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56806 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56808 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56808 [422]: GET /staff.php?status=Pending%27%20OR%201=1
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56808 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56810 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56810 [404]: GET /staff-reflection.php?id=
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56810 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56812 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56812 [404]: GET /staff-reflection.php?id=-1
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56812 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56814 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56814 [404]: GET /staff-reflection.php?id=abc
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56814 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56816 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56816 [404]: GET /staff-reflection.php?id=4294967295
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56816 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56818 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56818 [404]: GET /staff-reflection.php?id=4294967296
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56818 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56820 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56820 [404]: GET /staff-reflection.php?id=1%20OR%201=1
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56820 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56822 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56822 [404]: GET /staff-reflection.php?id[]=1
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56822 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56824 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56824 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56824 Closing
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56826 Accepted
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56826 [200]: GET /staff-reflection.php?id=12&action=accept
+[Tue Nov 10 22:09:43 2026] 127.0.0.1:56826 Closing
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:56829 Accepted
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:56829 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:56829 Closing
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:56831 Accepted
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:56831 [405]: PUT /staff-reflection.php?id=12
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:56831 Closing
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59598 Accepted
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59598 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59598 Closing
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59600 Accepted
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59600 [403]: POST /staff-reflection.php?id=12
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59600 Closing
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59603 Accepted
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59603 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59603 Closing
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59605 Accepted
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59605 [403]: POST /staff-reflection.php?id=12
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59605 Closing
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59608 Accepted
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59608 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59608 Closing
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59610 Accepted
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59610 [409]: POST /staff-reflection.php?id=12
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59610 Closing
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59613 Accepted
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59613 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59613 Closing
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59615 Accepted
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59615 [422]: POST /staff-reflection.php?id=12
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59615 Closing
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59618 Accepted
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59618 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59618 Closing
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59620 Accepted
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59620 [303]: POST /staff-reflection.php?id=12
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59620 Closing
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59623 Accepted
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59623 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59623 Closing
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59625 Accepted
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59625 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59625 Closing
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59627 Accepted
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59627 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59627 Closing
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59629 Accepted
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59629 [409]: POST /staff-reflection.php?id=12
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59629 Closing
+[Tue Nov 10 22:09:44 2026] 127.0.0.1:59632 Accepted
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59632 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59632 Closing
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59634 Accepted
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59634 [422]: POST /staff-reflection.php?id=12
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59634 Closing
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59637 Accepted
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59637 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59637 Closing
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59639 Accepted
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59639 [422]: POST /staff-reflection.php?id=12
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59639 Closing
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59642 Accepted
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59642 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59642 Closing
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59644 Accepted
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59644 [422]: POST /staff-reflection.php?id=12
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59644 Closing
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59647 Accepted
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59647 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59647 Closing
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59649 Accepted
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59649 [422]: POST /staff-reflection.php?id=12
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59649 Closing
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59652 Accepted
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59652 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59652 Closing
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59654 Accepted
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59654 [303]: POST /staff-reflection.php?id=12
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59654 Closing
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59658 Accepted
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59658 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59658 Closing
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59660 Accepted
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59660 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59660 Closing
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59662 Accepted
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59662 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59662 Closing
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59664 Accepted
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59664 [409]: POST /staff-reflection.php?id=12
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59664 Closing
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59667 Accepted
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59667 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59667 Closing
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59669 Accepted
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59669 [200]: GET /staff-reflection.php?id=12
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59669 Closing
+[Tue Nov 10 22:09:45 2026] 127.0.0.1:59671 Accepted
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59671 [409]: POST /staff-reflection.php?id=12
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59671 Closing
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59674 Accepted
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59674 [200]: GET /reflection.php?id=12
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59674 Closing
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59676 Accepted
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59676 [404]: GET /reflection.php?id=12
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59676 Closing
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59678 Accepted
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59678 [200]: GET /student.php
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59678 Closing
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59680 Accepted
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59680 [200]: GET /staff-reflection.php?id=16
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59680 Closing
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59682 Accepted
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59682 [200]: GET /staff-reflection.php?id=16
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59682 Closing
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59685 Accepted
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59685 [409]: POST /staff-reflection.php?id=16
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59685 Closing
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59688 Accepted
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59688 [200]: GET /staff-reflection.php?id=16
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59688 Closing
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59691 Accepted
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59691 [409]: POST /staff-reflection.php?id=16
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59691 Closing
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59694 Accepted
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59694 [200]: GET /staff-reflection.php?id=17
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59694 Closing
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59696 Accepted
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59696 [200]: GET /staff-reflection.php?id=17
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59696 Closing
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59699 Accepted
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59699 [409]: POST /staff-reflection.php?id=17
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59699 Closing
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59702 Accepted
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59702 [200]: GET /staff-reflection.php?id=17
+[Tue Nov 10 22:09:46 2026] 127.0.0.1:59702 Closing
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59705 Accepted
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59705 [409]: POST /staff-reflection.php?id=17
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59705 Closing
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59708 Accepted
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59708 [200]: GET /staff-reflection.php?id=13
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59708 Closing
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59710 Accepted
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59710 [200]: GET /staff-reflection.php?id=13
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59710 Closing
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59712 Accepted
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59713 Accepted
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59713 [200]: GET /staff-reflection.php?id=13
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59713 Closing
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59712 [200]: GET /staff-reflection.php?id=13
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59712 Closing
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59715 Accepted
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59715 [303]: POST /staff-reflection.php?id=13
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59715 Closing
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59717 Accepted
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59717 [409]: POST /staff-reflection.php?id=13
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59717 Closing
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59721 Accepted
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59721 [200]: GET /staff-reflection.php?id=14
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59721 Closing
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59723 Accepted
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59723 [200]: GET /staff-reflection.php?id=14
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59723 Closing
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59725 Accepted
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59726 Accepted
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59725 [200]: GET /staff-reflection.php?id=14
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59725 Closing
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59726 [200]: GET /staff-reflection.php?id=14
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59726 Closing
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59728 Accepted
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59728 [303]: POST /staff-reflection.php?id=14
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59728 Closing
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59730 Accepted
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59730 [409]: POST /staff-reflection.php?id=14
+[Tue Nov 10 22:09:47 2026] 127.0.0.1:59730 Closing
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59741 Accepted
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59741 [303]: GET /staff-reflection.php?id=15
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59741 Closing
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59744 Accepted
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59744 [303]: POST /staff-reflection.php?id=15
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59744 Closing
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59749 Accepted
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59749 [200]: GET /staff.php?status=Closed
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59749 Closing
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59753 Accepted
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59753 [303]: GET /reflection-create.php
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59753 Closing
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59754 Accepted
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59754 [303]: GET /reflections.php
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59754 Closing
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59755 Accepted
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59755 [303]: GET /reflection.php?id=1
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59755 Closing
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59756 Accepted
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59756 [200]: GET /login.php
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59756 Closing
+[Tue Nov 10 22:09:48 2026] 127.0.0.1:59757 Accepted
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59757 [303]: POST /login.php
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59757 Closing
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59759 Accepted
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59759 [303]: GET /reflection-create.php
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59759 Closing
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59761 Accepted
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59761 [303]: GET /reflections.php
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59761 Closing
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59763 Accepted
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59763 [303]: GET /reflection.php?id=1
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59763 Closing
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59765 Accepted
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59765 [200]: GET /login.php
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59765 Closing
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59766 Accepted
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59766 [303]: POST /login.php
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59766 Closing
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59768 Accepted
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59768 [200]: GET /login.php
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59768 Closing
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59769 Accepted
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59769 [303]: POST /login.php
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59769 Closing
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59771 Accepted
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59771 [200]: GET /student.php
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59771 Closing
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59773 Accepted
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59773 [200]: GET /reflections.php
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59773 Closing
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59775 Accepted
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59775 [200]: GET /reflection-create.php
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59775 Closing
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59777 Accepted
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59777 [422]: POST /reflection-create.php
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59777 Closing
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59780 Accepted
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59780 [422]: POST /reflection-create.php
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59780 Closing
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59783 Accepted
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59783 [422]: POST /reflection-create.php
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59783 Closing
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59786 Accepted
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59786 [422]: POST /reflection-create.php
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59786 Closing
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59789 Accepted
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59789 [422]: POST /reflection-create.php
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59789 Closing
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59792 Accepted
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59792 [422]: POST /reflection-create.php
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59792 Closing
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59795 Accepted
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59795 [403]: POST /reflection-create.php
+[Tue Nov 10 22:09:49 2026] 127.0.0.1:59795 Closing
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59798 Accepted
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59798 [303]: POST /reflection-create.php
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59798 Closing
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59801 Accepted
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59801 [200]: GET /reflections.php
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59801 Closing
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59803 Accepted
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59803 [200]: GET /reflections.php
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59803 Closing
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59806 Accepted
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59806 [200]: GET /reflection.php?id=19
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59806 Closing
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59808 Accepted
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59808 [404]: GET /reflection.php?id=19
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59808 Closing
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59810 Accepted
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59810 [200]: GET /reflections.php
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59810 Closing
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59812 Accepted
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59812 [404]: GET /reflection.php?id=
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59812 Closing
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59814 Accepted
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59814 [404]: GET /reflection.php?id=-1
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59814 Closing
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59816 Accepted
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59816 [404]: GET /reflection.php?id=abc
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59816 Closing
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59818 Accepted
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59818 [404]: GET /reflection.php?id=1%20OR%201=1
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59818 Closing
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59820 Accepted
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59820 [404]: GET /reflection.php?id=4294967295
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59820 Closing
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59822 Accepted
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59822 [404]: GET /reflection.php?id=4294967296
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59822 Closing
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59824 Accepted
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59824 [404]: GET /reflection.php?id=1.5
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59824 Closing
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59826 Accepted
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59826 [404]: GET /reflection.php?id=%3Cscript%3E
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59826 Closing
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59828 Accepted
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59828 [404]: GET /reflection.php?id[]=1
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59828 Closing
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59831 Accepted
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59831 [200]: GET /reflection.php?id=19
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59831 Closing
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59834 Accepted
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59834 [200]: GET /reflection.php?id=19
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59834 Closing
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59837 Accepted
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59837 [200]: GET /reflection.php?id=19
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:59837 Closing
+[Tue Nov 10 22:09:50 2026] 127.0.0.1:50653 Accepted
+[Tue Nov 10 22:09:51 2026] 127.0.0.1:50653 [200]: GET /reflection.php?id=19
+[Tue Nov 10 22:09:51 2026] 127.0.0.1:50653 Closing
+[Tue Nov 10 22:09:51 2026] 127.0.0.1:50656 Accepted
+[Tue Nov 10 22:09:51 2026] 127.0.0.1:50656 [200]: GET /reflection.php?id=19
+[Tue Nov 10 22:09:51 2026] 127.0.0.1:50656 Closing
+[Tue Nov 10 22:09:51 2026] 127.0.0.1:50659 Accepted
+[Tue Nov 10 22:09:51 2026] 127.0.0.1:50659 [200]: GET /reflection.php?id=19
+[Tue Nov 10 22:09:51 2026] 127.0.0.1:50659 Closing
+[Tue Nov 10 22:09:51 2026] 127.0.0.1:50661 Accepted
+[Tue Nov 10 22:09:51 2026] 127.0.0.1:50661 [303]: POST /reflection-create.php
+[Tue Nov 10 22:09:51 2026] 127.0.0.1:50661 Closing
+[Tue Nov 10 22:09:51 2026] 127.0.0.1:50665 Accepted
+[Tue Nov 10 22:09:51 2026] 127.0.0.1:50665 [200]: GET /reflections.php
+[Tue Nov 10 22:09:51 2026] 127.0.0.1:50665 Closing
+[Tue Nov 10 22:09:51 2026] 127.0.0.1:50668 Accepted
+[Tue Nov 10 22:09:51 2026] 127.0.0.1:50668 [303]: GET /reflections.php
+[Tue Nov 10 22:09:51 2026] 127.0.0.1:50668 Closing
+[Tue Nov 10 22:09:52 2026] 127.0.0.1:64658 Accepted
+[Tue Nov 10 22:09:52 2026] 127.0.0.1:64658 [200]: GET /login.php
+[Tue Nov 10 22:09:52 2026] 127.0.0.1:64658 Closing
+[Tue Nov 10 22:09:52 2026] 127.0.0.1:51974 Accepted
+[Tue Nov 10 22:09:52 2026] 127.0.0.1:51974 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:52 2026] 127.0.0.1:51974 Closing
+[Tue Nov 10 22:09:52 2026] 127.0.0.1:62671 Accepted
+[Tue Nov 10 22:09:52 2026] 127.0.0.1:62671 [200]: GET /assets/campus-reference.png
+[Tue Nov 10 22:09:52 2026] 127.0.0.1:62671 Closing
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:53740 Accepted
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:53740 [404]: GET /favicon.ico - No such file or directory
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:53740 Closing
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:59952 Accepted
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:62298 Accepted
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:59952 [303]: POST /login.php
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:59952 Closing
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:62298 [200]: GET /student.php
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:62298 Closing
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:63457 Accepted
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:56721 Accepted
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:63457 [200]: GET /assets/student-home.css
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:56721 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:63457 Closing
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:56721 Closing
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:51635 Accepted
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:51635 [200]: GET /references/ui/Campusvoice,%20minh%20h%E1%BB%8Da%20gi%E1%BA%A5y%20c%E1%BA%AFt%20B%C3%ACnh%20D%C6%B0%C6%A1ng.png
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:51635 Closing
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:53578 Accepted
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:53578 [200]: GET /reflection-create.php
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:53578 Closing
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:52974 Accepted
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:52974 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:57978 Accepted
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:52974 Closing
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:57978 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:57978 Closing
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:56269 Accepted
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:56269 [303]: POST /reflection-create.php
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:56269 Closing
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:51614 Accepted
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:51614 [200]: GET /reflections.php
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:51614 Closing
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:64211 Accepted
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:59932 Accepted
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:64211 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:59932 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:64211 Closing
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:59932 Closing
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:50060 Accepted
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:50060 [200]: GET /login.php
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:50060 Closing
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:57246 Accepted
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:57246 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:57246 Closing
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:53653 Accepted
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:53653 [200]: GET /assets/campus-reference.png
+[Tue Nov 10 22:09:53 2026] 127.0.0.1:53653 Closing
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:64926 Accepted
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:64926 [303]: POST /login.php
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:64926 Closing
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:62286 Accepted
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:62286 [200]: GET /staff.php
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:62286 Closing
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:53841 Accepted
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:51890 Accepted
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:61150 Accepted
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:53841 [200]: GET /assets/staff.css
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:51890 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:61150 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:53841 Closing
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:51890 Closing
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:61150 Closing
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:58129 Accepted
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:58129 [200]: GET /staff.php
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:58129 Closing
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:65263 Accepted
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:65263 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:65263 Closing
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:50521 Accepted
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:58047 Accepted
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:50521 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:58047 [200]: GET /assets/staff.css
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:50521 Closing
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:58047 Closing
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:62739 Accepted
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:62739 [200]: GET /staff-reflection.php?id=21
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:62739 Closing
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:64427 Accepted
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:64427 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:64427 Closing
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:63796 Accepted
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:63692 Accepted
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:63796 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:63692 [200]: GET /assets/staff.css
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:63796 Closing
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:63692 Closing
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:55072 Accepted
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:55072 [303]: POST /staff-reflection.php?id=21
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:55072 Closing
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:55236 Accepted
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:55236 [200]: GET /staff-reflection.php?id=21
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:55236 Closing
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:60404 Accepted
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:56493 Accepted
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:57360 Accepted
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:60404 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:56493 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:57360 [200]: GET /assets/staff.css
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:60404 Closing
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:56493 Closing
+[Tue Nov 10 22:09:54 2026] 127.0.0.1:57360 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:63510 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:63510 [303]: POST /staff-reflection.php?id=21
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:63510 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:60004 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:60004 [200]: GET /staff-reflection.php?id=21
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:60004 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:58772 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:52639 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:65346 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:58772 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:52639 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:65346 [200]: GET /assets/staff.css
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:58772 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:52639 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:65346 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:59712 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:59712 [200]: GET /login.php
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:59712 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:55981 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:55981 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:55981 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:63060 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:63060 [200]: GET /assets/campus-reference.png
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:63060 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:50311 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:50311 [303]: POST /login.php
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:50311 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:57888 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:57888 [200]: GET /student.php
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:57888 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:59360 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:59360 [200]: GET /assets/student-home.css
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:63452 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:59360 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:63452 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:63452 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:55537 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:55537 [200]: GET /references/ui/Campusvoice,%20minh%20h%E1%BB%8Da%20gi%E1%BA%A5y%20c%E1%BA%AFt%20B%C3%ACnh%20D%C6%B0%C6%A1ng.png
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:55537 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:52311 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:52311 [200]: GET /notifications.php
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:52311 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:50260 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:50260 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:63320 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:50260 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:63320 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:63320 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:51556 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:51556 [303]: POST /notifications.php
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:51556 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:62286 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:62286 [200]: GET /reflection.php?id=21
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:62286 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:64525 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:50616 Accepted
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:64525 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:50616 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:64525 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:50616 Closing
+[Tue Nov 10 22:09:55 2026] 127.0.0.1:64303 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:64303 [303]: POST /reflection.php?id=21
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:64303 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:55432 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:55432 [200]: GET /reflection.php?id=21
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:55432 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:57429 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:56712 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:57429 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:56712 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:57429 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:56712 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:53499 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:53499 [200]: GET /login.php
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:53499 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:53807 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:53807 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:53807 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:64646 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:64646 [200]: GET /assets/campus-reference.png
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:64646 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:57257 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:65098 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:57257 [303]: POST /login.php
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:57257 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:65098 [200]: GET /staff.php
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:65098 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:55802 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:52333 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:64336 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:55802 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:52333 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:64336 [200]: GET /assets/staff.css
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:55802 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:52333 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:64336 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:53424 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:53424 [200]: GET /notifications.php
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:53424 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:62768 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:62768 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:62768 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:64242 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:60000 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:64242 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:60000 [200]: GET /assets/staff.css
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:64242 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:60000 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:60293 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:60293 [303]: POST /notifications.php
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:60293 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:55327 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:55327 [200]: GET /staff-reflection.php?id=21
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:55327 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:51430 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:52910 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:51430 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:52910 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:51430 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:52910 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:63995 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:63995 [200]: GET /assets/staff.css
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:63995 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:62728 Accepted
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:62728 [303]: POST /staff-reflection.php?id=21
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:62728 Closing
+[Tue Nov 10 22:09:56 2026] 127.0.0.1:61550 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:61550 [200]: GET /staff-reflection.php?id=21
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:61550 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:63536 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:53392 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:62291 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:63536 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:53392 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:62291 [200]: GET /assets/staff.css
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:63536 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:53392 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:62291 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:62286 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:62286 [303]: POST /staff-reflection.php?id=21
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:62286 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:63031 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:63031 [200]: GET /staff-reflection.php?id=21
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:63031 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:55414 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:60283 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:60577 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:55414 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:60283 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:60577 [200]: GET /assets/staff.css
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:55414 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:60283 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:60577 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:54143 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:54143 [200]: GET /login.php
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:54143 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:50060 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:50060 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:50060 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:61649 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:61649 [200]: GET /assets/campus-reference.png
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:61649 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:65422 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:65422 [303]: POST /login.php
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:65422 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:61725 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:61725 [200]: GET /student.php
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:61725 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:65424 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:52200 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:65424 [200]: GET /assets/student-home.css
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:52200 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:65424 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:52200 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:58017 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:58017 [200]: GET /references/ui/Campusvoice,%20minh%20h%E1%BB%8Da%20gi%E1%BA%A5y%20c%E1%BA%AFt%20B%C3%ACnh%20D%C6%B0%C6%A1ng.png
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:58017 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:56952 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:56952 [200]: GET /notifications.php
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:56952 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:60710 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:60710 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:60710 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:58306 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:58306 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:58306 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:59550 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:59550 [303]: POST /notifications.php
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:59550 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:65335 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:65335 [200]: GET /reflection.php?id=21
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:65335 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:54513 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:50334 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:54513 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:50334 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:54513 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:50334 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:56201 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:56201 [200]: GET /login.php
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:56201 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:53259 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:53259 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:53259 Closing
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:59623 Accepted
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:59623 [200]: GET /assets/campus-reference.png
+[Tue Nov 10 22:09:57 2026] 127.0.0.1:59623 Closing
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:54051 Accepted
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:54051 [303]: POST /login.php
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:54051 Closing
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:50507 Accepted
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:50507 [200]: GET /staff.php
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:50507 Closing
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:61877 Accepted
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:53954 Accepted
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:59177 Accepted
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:61877 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:53954 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:59177 [200]: GET /assets/staff.css
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:61877 Closing
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:53954 Closing
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:59177 Closing
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:54061 Accepted
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:54061 [200]: GET /staff-reflection.php?id=21
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:54061 Closing
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:55253 Accepted
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:55253 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:55253 Closing
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:53614 Accepted
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:56784 Accepted
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:53614 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:56784 [200]: GET /assets/staff.css
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:53614 Closing
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:56784 Closing
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:61583 Accepted
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:61583 [303]: POST /staff-reflection.php?id=21
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:61583 Closing
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:59459 Accepted
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:59459 [200]: GET /staff-reflection.php?id=21
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:59459 Closing
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:52180 Accepted
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:64091 Accepted
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:53615 Accepted
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:52180 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:64091 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:53615 [200]: GET /assets/staff.css
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:52180 Closing
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:64091 Closing
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:53615 Closing
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:59837 Accepted
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:59837 [200]: GET /login.php
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:59837 Closing
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:62951 Accepted
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:62951 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:62951 Closing
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:63605 Accepted
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:63605 [200]: GET /assets/campus-reference.png
+[Tue Nov 10 22:09:58 2026] 127.0.0.1:63605 Closing
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:58206 Accepted
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:58206 [303]: POST /login.php
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:58206 Closing
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:54048 Accepted
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:54048 [200]: GET /student.php
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:54048 Closing
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:65154 Accepted
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:52677 Accepted
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:65154 [200]: GET /assets/student-home.css
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:52677 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:65154 Closing
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:52677 Closing
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:53929 Accepted
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:53929 [200]: GET /references/ui/Campusvoice,%20minh%20h%E1%BB%8Da%20gi%E1%BA%A5y%20c%E1%BA%AFt%20B%C3%ACnh%20D%C6%B0%C6%A1ng.png
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:53929 Closing
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:63868 Accepted
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:63868 [200]: GET /notifications.php
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:63868 Closing
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:60448 Accepted
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:60448 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:60448 Closing
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:50439 Accepted
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:50439 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:50439 Closing
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:61113 Accepted
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:61113 [303]: POST /notifications.php
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:61113 Closing
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:50829 Accepted
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:50829 [200]: GET /reflection.php?id=21
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:50829 Closing
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:57818 Accepted
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:50963 Accepted
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:57818 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:50963 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:57818 Closing
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:50963 Closing
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:59694 Accepted
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:59694 [200]: GET /login.php
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:59694 Closing
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:58392 Accepted
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:58392 [200]: GET /assets/style.css
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:58392 Closing
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:57021 Accepted
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:57021 [200]: GET /assets/campus-reference.png
+[Tue Nov 10 22:09:59 2026] 127.0.0.1:57021 Closing
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:51060 Accepted
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:51060 [303]: POST /login.php
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:51060 Closing
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:49924 Accepted
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:49924 [200]: GET /student.php
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:49924 Closing
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:53664 Accepted
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:50672 Accepted
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:53664 [200]: GET /assets/student-home.css
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:50672 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:53664 Closing
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:50672 Closing
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:54611 Accepted
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:54611 [200]: GET /references/ui/Campusvoice,%20minh%20h%E1%BB%8Da%20gi%E1%BA%A5y%20c%E1%BA%AFt%20B%C3%ACnh%20D%C6%B0%C6%A1ng.png
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:64216 Accepted
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:64216 [404]: GET /reflection.php?id=21
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:64216 Closing
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:54611 Closing
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:52016 Accepted
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:59964 Accepted
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:52016 [200]: GET /assets/style.css
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:59964 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:52016 Closing
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:59964 Closing
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:64776 Accepted
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:64776 [200]: GET /reflections.php
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:64776 Closing
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:56911 Accepted
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:56911 [200]: GET /assets/style.css
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:53250 Accepted
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:56911 Closing
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:53250 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:53250 Closing
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:57606 Accepted
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:57606 [200]: GET /notifications.php
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:57606 Closing
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:59998 Accepted
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:59998 [200]: GET /assets/style.css
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:59998 Closing
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:56652 Accepted
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:56652 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:10:00 2026] 127.0.0.1:56652 Closing
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:56655 Accepted
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:56655 [404]: POST /notifications.php
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:56655 Closing
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:56658 Accepted
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:56658 [303]: POST /staff-reflection.php?id=21
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:56658 Closing
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:56661 Accepted
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:56661 [404]: POST /reflection.php?id=21
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:56661 Closing
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:54755 Accepted
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:54755 [303]: GET /staff.php
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:54755 Closing
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:51678 Accepted
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:51678 [200]: GET /student.php
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:51678 Closing
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:62677 Accepted
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:60329 Accepted
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:62677 [200]: GET /assets/student-home.css
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:60329 [200]: GET /assets/notifications.css
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:62677 Closing
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:60329 Closing
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:51821 Accepted
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:51821 [200]: GET /references/ui/Campusvoice,%20minh%20h%E1%BB%8Da%20gi%E1%BA%A5y%20c%E1%BA%AFt%20B%C3%ACnh%20D%C6%B0%C6%A1ng.png
+[Tue Nov 10 22:10:01 2026] 127.0.0.1:51821 Closing

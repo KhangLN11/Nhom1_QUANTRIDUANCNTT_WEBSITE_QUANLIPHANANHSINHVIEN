@@ -1,0 +1,58 @@
+PASS test account login
+PASS test account login
+PASS test account login
+PASS valid upload Minh chứng tiếng Việt.pdf
+PASS file stored outside web root, exact bytes
+PASS download authorized owner
+PASS download authorized staff
+PASS other student download denied
+PASS valid upload minh-chung.png
+PASS file stored outside web root, exact bytes
+PASS download authorized owner
+PASS download authorized staff
+PASS other student download denied
+PASS valid upload minh-chung.JPG
+PASS file stored outside web root, exact bytes
+PASS download authorized owner
+PASS download authorized staff
+PASS other student download denied
+PASS UTF-8 filename header
+PASS reject wrong type/empty/oversize shell.php
+PASS text retained after file error
+PASS reject wrong type/empty/oversize fake.pdf
+PASS text retained after file error
+PASS reject wrong type/empty/oversize fake.jpg
+PASS text retained after file error
+PASS reject wrong type/empty/oversize empty.pdf
+PASS text retained after file error
+PASS reject wrong type/empty/oversize big.pdf
+PASS text retained after file error
+PASS upload CSRF; no orphan data/file
+PASS download invalid/anonymous access
+PASS download invalid/anonymous access
+PASS download invalid/anonymous access
+PASS download read-only method
+PASS detail lists attachment for authorized role
+PASS detail lists attachment for authorized role
+PASS supplement can attach file
+PASS initial and supplement files retained
+PASS stale supplement does not move duplicate file
+PASS closed reflection attachments still downloadable
+PASS CSV MIME and UTF-8 BOM for Excel
+PASS CSV current status filter applied to all rows
+PASS Closed record excluded from Pending CSV
+PASS CSV Vietnamese, quotes/comma/newline roundtrip
+PASS Excel formula injection neutralized
+PASS export link preserves selected filter
+PASS CSV invalid filter denied
+PASS CSV invalid filter denied
+PASS CSV invalid filter denied
+PASS CSV role/session access denied
+PASS CSV role/session access denied
+PASS CSV GET only
+PASS failed metadata insert rolls back reflection and removes physical file
+PASS failed supplement notification rolls back file metadata, activity, status and physical file
+PASS inactive staff cannot export
+ALL 55 ATTACHMENT/CSV CHECKS PASSED
+CLEANUP temporary attachments/files, accounts, history and notifications
+

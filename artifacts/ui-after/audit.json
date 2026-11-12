@@ -1,0 +1,501 @@
+{
+  "cases": [
+    {
+      "page": "login",
+      "width": 360,
+      "clientWidth": 345,
+      "scrollWidth": 345,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "login-error",
+      "width": 360,
+      "clientWidth": 345,
+      "scrollWidth": 345,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "home",
+      "width": 360,
+      "clientWidth": 360,
+      "scrollWidth": 360,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "create",
+      "width": 360,
+      "clientWidth": 345,
+      "scrollWidth": 345,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "student-list",
+      "width": 360,
+      "clientWidth": 345,
+      "scrollWidth": 345,
+      "clipped": [],
+      "overlaps": [],
+      "tables": [
+        {
+          "width": 319,
+          "scroll": 880,
+          "overflow": "auto"
+        }
+      ]
+    },
+    {
+      "page": "student-detail",
+      "width": 360,
+      "clientWidth": 345,
+      "scrollWidth": 345,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "student-supplement",
+      "width": 360,
+      "clientWidth": 345,
+      "scrollWidth": 345,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "student-notifications",
+      "width": 360,
+      "clientWidth": 345,
+      "scrollWidth": 345,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "create-error",
+      "width": 360,
+      "clientWidth": 345,
+      "scrollWidth": 345,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "student-list-empty",
+      "width": 360,
+      "clientWidth": 360,
+      "scrollWidth": 360,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "notifications-empty",
+      "width": 360,
+      "clientWidth": 360,
+      "scrollWidth": 360,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "home-empty",
+      "width": 360,
+      "clientWidth": 360,
+      "scrollWidth": 360,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "staff-list",
+      "width": 360,
+      "clientWidth": 345,
+      "scrollWidth": 345,
+      "clipped": [],
+      "overlaps": [],
+      "tables": [
+        {
+          "width": 319,
+          "scroll": 1050,
+          "overflow": "auto"
+        }
+      ]
+    },
+    {
+      "page": "staff-detail",
+      "width": 360,
+      "clientWidth": 345,
+      "scrollWidth": 345,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "staff-reply",
+      "width": 360,
+      "clientWidth": 345,
+      "scrollWidth": 345,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "staff-close",
+      "width": 360,
+      "clientWidth": 345,
+      "scrollWidth": 345,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "staff-notifications",
+      "width": 360,
+      "clientWidth": 345,
+      "scrollWidth": 345,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "login",
+      "width": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "login-error",
+      "width": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "home",
+      "width": 768,
+      "clientWidth": 768,
+      "scrollWidth": 768,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "create",
+      "width": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "student-list",
+      "width": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "clipped": [],
+      "overlaps": [],
+      "tables": [
+        {
+          "width": 711,
+          "scroll": 880,
+          "overflow": "auto"
+        }
+      ]
+    },
+    {
+      "page": "student-detail",
+      "width": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "student-supplement",
+      "width": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "student-notifications",
+      "width": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "create-error",
+      "width": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "student-list-empty",
+      "width": 768,
+      "clientWidth": 768,
+      "scrollWidth": 768,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "notifications-empty",
+      "width": 768,
+      "clientWidth": 768,
+      "scrollWidth": 768,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "home-empty",
+      "width": 768,
+      "clientWidth": 768,
+      "scrollWidth": 768,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "staff-list",
+      "width": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "clipped": [],
+      "overlaps": [],
+      "tables": [
+        {
+          "width": 711,
+          "scroll": 1050,
+          "overflow": "auto"
+        }
+      ]
+    },
+    {
+      "page": "staff-detail",
+      "width": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "staff-reply",
+      "width": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "staff-close",
+      "width": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "staff-notifications",
+      "width": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "login",
+      "width": 1440,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "login-error",
+      "width": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "home",
+      "width": 1440,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "create",
+      "width": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "student-list",
+      "width": 1440,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "clipped": [],
+      "overlaps": [],
+      "tables": [
+        {
+          "width": 1370,
+          "scroll": 1370,
+          "overflow": "auto"
+        }
+      ]
+    },
+    {
+      "page": "student-detail",
+      "width": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "student-supplement",
+      "width": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "student-notifications",
+      "width": 1440,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "create-error",
+      "width": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "student-list-empty",
+      "width": 1440,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "notifications-empty",
+      "width": 1440,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "home-empty",
+      "width": 1440,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "staff-list",
+      "width": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "clipped": [],
+      "overlaps": [],
+      "tables": [
+        {
+          "width": 1355,
+          "scroll": 1355,
+          "overflow": "auto"
+        }
+      ]
+    },
+    {
+      "page": "staff-detail",
+      "width": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "staff-reply",
+      "width": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "staff-close",
+      "width": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    },
+    {
+      "page": "staff-notifications",
+      "width": 1440,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "clipped": [],
+      "overlaps": [],
+      "tables": []
+    }
+  ],
+  "jsErrors": [],
+  "checks": 168
+}

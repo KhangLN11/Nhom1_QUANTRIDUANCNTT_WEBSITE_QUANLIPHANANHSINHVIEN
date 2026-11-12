@@ -1,0 +1,68 @@
+login 360: root=345, clipped=0, overlaps=0
+login-error 360: root=345, clipped=0, overlaps=0
+home 360: root=360, clipped=0, overlaps=0
+create 360: root=345, clipped=0, overlaps=0
+student-list 360: root=345, clipped=0, overlaps=0
+student-detail 360: root=345, clipped=0, overlaps=0
+student-supplement 360: root=345, clipped=0, overlaps=0
+student-notifications 360: root=345, clipped=0, overlaps=0
+create-error 360: root=345, clipped=0, overlaps=0
+student-list-empty 360: root=360, clipped=0, overlaps=0
+notifications-empty 360: root=360, clipped=0, overlaps=0
+home-empty 360: root=360, clipped=0, overlaps=0
+staff-list 360: root=345, clipped=0, overlaps=0
+staff-detail 360: root=345, clipped=0, overlaps=0
+staff-reply 360: root=345, clipped=0, overlaps=0
+staff-close 360: root=345, clipped=0, overlaps=0
+staff-notifications 360: root=345, clipped=0, overlaps=0
+login 768: root=753, clipped=0, overlaps=0
+login-error 768: root=753, clipped=0, overlaps=0
+home 768: root=768, clipped=0, overlaps=0
+create 768: root=753, clipped=0, overlaps=0
+student-list 768: root=753, clipped=0, overlaps=0
+student-detail 768: root=753, clipped=0, overlaps=0
+student-supplement 768: root=753, clipped=0, overlaps=0
+student-notifications 768: root=753, clipped=0, overlaps=0
+create-error 768: root=753, clipped=0, overlaps=0
+student-list-empty 768: root=768, clipped=0, overlaps=0
+notifications-empty 768: root=768, clipped=0, overlaps=0
+home-empty 768: root=768, clipped=0, overlaps=0
+staff-list 768: root=753, clipped=0, overlaps=0
+staff-detail 768: root=753, clipped=0, overlaps=0
+staff-reply 768: root=753, clipped=0, overlaps=0
+staff-close 768: root=753, clipped=0, overlaps=0
+staff-notifications 768: root=753, clipped=0, overlaps=0
+login 1440: root=1440, clipped=0, overlaps=0
+login-error 1440: root=1425, clipped=0, overlaps=0
+home 1440: root=1440, clipped=0, overlaps=0
+create 1440: root=1425, clipped=0, overlaps=0
+student-list 1440: root=1440, clipped=0, overlaps=0
+student-detail 1440: root=1425, clipped=0, overlaps=0
+student-supplement 1440: root=1425, clipped=0, overlaps=0
+student-notifications 1440: root=1440, clipped=0, overlaps=0
+create-error 1440: root=1425, clipped=0, overlaps=0
+student-list-empty 1440: root=1440, clipped=0, overlaps=0
+notifications-empty 1440: root=1440, clipped=0, overlaps=0
+home-empty 1440: root=1440, clipped=0, overlaps=0
+staff-list 1440: root=1425, clipped=0, overlaps=0
+staff-detail 1440: root=1425, clipped=0, overlaps=0
+staff-reply 1440: root=1425, clipped=0, overlaps=0
+staff-close 1440: root=1425, clipped=0, overlaps=0
+staff-notifications 1440: root=1440, clipped=0, overlaps=0
+PASS keyboard opens mobile menu
+PASS Tab enters mobile navigation
+PASS Escape closes and restores focus
+PASS Space opens menu
+PASS keyboard follows My reflections navigation
+PASS keyboard scrolls table without scrolling entire page
+PASS submission success animation
+PASS pointer opens submitted detail
+PASS mobile staff acceptance still works
+PASS mobile staff reply and status update still work
+PASS staff mobile menu works
+PASS reduced motion disables banner animation and smooth scrolling
+PASS navigation remains usable if JS is unavailable
+PASS keyboard login focus is visible
+PASS no JavaScript exceptions
+AFTER audit finished: 51 page/viewport cases, 168 checks
+CLEANUP temporary UI users, files, history and notifications

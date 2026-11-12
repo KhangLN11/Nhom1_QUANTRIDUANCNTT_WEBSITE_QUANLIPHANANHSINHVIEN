@@ -1,0 +1,79 @@
+PASS fixture login
+PASS fixture login
+PASS fixture login
+PASS fixture login
+PASS anonymous notification inbox denied
+PASS empty own inbox
+PASS empty own inbox
+PASS supplement only NeedsInfo
+PASS reject state: request_info
+PASS reject state: close
+PASS accept increments version
+PASS request reason validation
+PASS request reason validation
+PASS request reason validation
+PASS request reason validation
+PASS request CSRF denied
+PASS invalid version rejected
+PASS invalid version rejected
+PASS invalid version rejected
+PASS request event + state + notification committed
+PASS original preserved on request
+PASS duplicate request creates no event/notice
+PASS request visible and escaped to both roles
+PASS request visible and escaped to both roles
+PASS other student cannot supplement
+PASS staff cannot submit student supplement
+PASS supplement content validation
+PASS supplement content validation
+PASS supplement content validation
+PASS supplement CSRF denied
+PASS own unread notice and badge
+PASS other inbox isolated
+PASS read ownership and CSRF enforced
+PASS read ownership and CSRF enforced
+PASS GET never marks read
+PASS open own notice marks read and redirects
+PASS repeat open keeps original ReadAt
+PASS supplement returns Pending; notifies exactly active staff scope
+PASS supplement separate from original and Responses
+PASS duplicate supplement has no duplicate history or notifications
+PASS staff notice opens staff detail
+PASS one staff reading does not mark others read
+PASS old request rejected after return to same InProgress state
+PASS old supplement rejected in next NeedsInfo round
+PASS resolve persists response and history
+PASS student receives exactly one result notice
+PASS close requires valid reason
+PASS close requires valid reason
+PASS close requires valid reason
+PASS close CSRF denied
+PASS close adds reason and preserves previous content
+PASS close notification exactly once
+PASS duplicate close has no duplicate notice
+PASS all rounds and close reason displayed in chronological order
+PASS final Response and activity rendered only once
+PASS all rounds and close reason displayed in chronological order
+PASS final Response and activity rendered only once
+PASS closed record remains owner-only for students
+PASS closed record immutable
+PASS notice cannot bypass reflection owner check
+PASS parallel request_info exactly once
+PASS fixture login
+PASS parallel supplement exactly once
+PASS rollback request_info after INSERT INTO ReflectionActivities
+PASS rollback request_info after UPDATE Reflections
+PASS rollback request_info after INSERT INTO Notifications
+PASS rollback resolve after INSERT INTO Responses
+PASS rollback resolve after INSERT INTO ReflectionActivities
+PASS rollback resolve after UPDATE Reflections
+PASS rollback resolve after INSERT INTO Notifications
+PASS rollback supplement after INSERT INTO ReflectionActivities
+PASS rollback supplement after UPDATE Reflections
+PASS rollback supplement after INSERT INTO Notifications
+PASS rollback close after INSERT INTO ReflectionActivities
+PASS rollback close after UPDATE Reflections
+PASS rollback close after INSERT INTO Notifications
+ALL 76 FOLLOWUP/NOTIFICATION CHECKS PASSED
+CLEANUP temporary accounts, activities, replies and notices (including notices to existing staff)
+

@@ -1,0 +1,54 @@
+PASS anonymous blocked: reflection-create.php
+PASS anonymous blocked: reflections.php
+PASS anonymous blocked: reflection.php?id=1
+PASS test account login
+PASS staff blocked: reflection-create.php
+PASS staff blocked: reflections.php
+PASS staff blocked: reflection.php?id=1
+PASS test account login
+PASS test account login
+PASS home links
+PASS empty list guidance
+PASS categories from database
+PASS invalid input rejected: title
+PASS content retained
+PASS invalid input rejected: title
+PASS content retained
+PASS invalid input rejected: content
+PASS content retained
+PASS invalid input rejected: content
+PASS content retained
+PASS invalid input rejected: category_id
+PASS content retained
+PASS invalid input rejected: category_id
+PASS content retained
+PASS invalid input rejected: csrf
+PASS content retained
+PASS POST redirects to list
+PASS session owner, Pending and UTF-8 saved
+PASS success flash and safe title
+PASS refresh without duplicate or flash
+PASS detail plain text and empty responses
+PASS other student isolated: reflection.php?id=19
+PASS other student isolated: reflections.php
+PASS invalid or missing ID: 
+PASS invalid or missing ID: -1
+PASS invalid or missing ID: abc
+PASS invalid or missing ID: 1%20OR%201=1
+PASS invalid or missing ID: 4294967295
+PASS invalid or missing ID: 4294967296
+PASS invalid or missing ID: 1.5
+PASS invalid or missing ID: %3Cscript%3E
+PASS array ID rejected
+PASS staff responses escaped, filtered and ordered
+PASS status label: Pending
+PASS status label: InProgress
+PASS status label: NeedsInfo
+PASS status label: Resolved
+PASS status label: Closed
+PASS 200-character UTF-8 title accepted
+PASS Id descending when timestamps match
+PASS inactive session denied
+ALL 51 CHECKS PASSED
+CLEANUP: removed temporary accounts, reflections and responses.
+

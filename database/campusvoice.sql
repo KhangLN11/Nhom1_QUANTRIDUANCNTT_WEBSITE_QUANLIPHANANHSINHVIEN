@@ -1,0 +1,71 @@
+-- CampusVoice: import into a NEW empty database using phpMyAdmin.
+CREATE DATABASE IF NOT EXISTS campusvoice CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE campusvoice;
+SET NAMES utf8mb4;
+CREATE TABLE Users (
+ Id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+ FullName VARCHAR(100) NOT NULL,
+ Email VARCHAR(100) NOT NULL UNIQUE,
+ PasswordHash VARCHAR(255) NOT NULL,
+ Role ENUM('Student','Staff') NOT NULL,
+ StudentCode VARCHAR(50) NULL UNIQUE,
+ IsActive BOOLEAN NOT NULL DEFAULT TRUE
+) ENGINE=InnoDB;
+CREATE TABLE Categories (
+ Id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+ Name VARCHAR(100) NOT NULL UNIQUE,
+ Description VARCHAR(255) NULL
+) ENGINE=InnoDB;
+CREATE TABLE Reflections (
+ Id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+ Title VARCHAR(200) NOT NULL,
+ Content TEXT NOT NULL,
+ Status ENUM('Pending','InProgress','NeedsInfo','Resolved','Closed') NOT NULL DEFAULT 'Pending',
+ CreatedAt DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+ UpdatedAt DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+ UserId INT UNSIGNED NOT NULL,
+ CategoryId INT UNSIGNED NOT NULL,
+ CONSTRAINT fk_ref_user FOREIGN KEY (UserId) REFERENCES Users(Id) ON DELETE RESTRICT,
+ CONSTRAINT fk_ref_category FOREIGN KEY (CategoryId) REFERENCES Categories(Id) ON DELETE RESTRICT,
+ INDEX ix_ref_owner_date (UserId,CreatedAt),
+ INDEX ix_ref_status_date (Status,CreatedAt)
+) ENGINE=InnoDB;
+CREATE TABLE Responses (
+ Id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+ Content TEXT NOT NULL,
+ CreatedAt DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+ ReflectionId INT UNSIGNED NOT NULL,
+ UserId INT UNSIGNED NOT NULL,
+ FOREIGN KEY (ReflectionId) REFERENCES Reflections(Id) ON DELETE RESTRICT,
+ FOREIGN KEY (UserId) REFERENCES Users(Id) ON DELETE RESTRICT,
+ INDEX ix_response_ref_date (ReflectionId,CreatedAt)
+) ENGINE=InnoDB;
+CREATE TABLE Attachments (
+ Id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+ FileName VARCHAR(255) NOT NULL,
+ ObjectKey VARCHAR(255) NOT NULL UNIQUE,
+ ContentType VARCHAR(100) NOT NULL,
+ FileSize BIGINT UNSIGNED NOT NULL,
+ UploadedAt DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+ ReflectionId INT UNSIGNED NOT NULL,
+ FOREIGN KEY (ReflectionId) REFERENCES Reflections(Id) ON DELETE RESTRICT
+) ENGINE=InnoDB;
+CREATE TABLE Notifications (
+ Id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+ Title VARCHAR(200) NOT NULL,
+ Content TEXT NOT NULL,
+ Type VARCHAR(20) NOT NULL,
+ IsRead BOOLEAN NOT NULL DEFAULT FALSE,
+ CreatedAt DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+ ReadAt DATETIME NULL,
+ UserId INT UNSIGNED NOT NULL,
+ ReflectionId INT UNSIGNED NOT NULL,
+ FOREIGN KEY (UserId) REFERENCES Users(Id) ON DELETE RESTRICT,
+ FOREIGN KEY (ReflectionId) REFERENCES Reflections(Id) ON DELETE RESTRICT,
+ INDEX ix_notification_inbox (UserId,IsRead,CreatedAt)
+) ENGINE=InnoDB;
+INSERT INTO Categories (Name,Description) VALUES
+('Cơ sở vật chất','Phòng học, thiết bị và khuôn viên'),
+('Học tập','Lịch học, học liệu và hoạt động học tập'),
+('Dịch vụ sinh viên','Các dịch vụ hỗ trợ sinh viên');
+-- Create users through PHP password_hash(); never insert plaintext passwords.

@@ -1,0 +1,18 @@
+PASS imported database/campusvoice.sql into campusvoice_installtest_515e1a51dbbe
+PASS imported database/migrations/001_followup_notifications.sql into campusvoice_installtest_515e1a51dbbe
+PASS three demo accounts, hashes and repeatable seeding
+PASS migration rerun preserves demo users
+PASS PDO via DB_NAME override and isolated PHP HTTP server http://127.0.0.1:65420/
+ALL 55 ATTACHMENT/CSV CHECKS PASSED
+CLEANUP temporary attachments/files, accounts, history and notifications
+ALL 76 FOLLOWUP/NOTIFICATION CHECKS PASSED
+CLEANUP temporary accounts, activities, replies and notices (including notices to existing staff)
+ALL 70 STAFF CHECKS PASSED
+CLEANUP temporary staff/student accounts, responses and reflections
+ALL 51 CHECKS PASSED
+CLEANUP: removed temporary accounts, reflections and responses.
+ALL 27 BROWSER FLOW CHECKS PASSED
+CLEANUP temporary browser accounts, reflection, history and notifications; reusable student2 kept
+PASS final database contains only demo accounts; temporary uploads cleaned
+ALL FRESH INSTALL CHECKS PASSED
+CLEANUP dropped only campusvoice_installtest_515e1a51dbbe; current database/config were not changed
